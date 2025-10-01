@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A growing frontend developer with a love for creativity and clean code 💻</h2>
+<h2 align="center">A growing frontend developer passionate about creativity and clean code 💻</h2>
 
 ###
 
